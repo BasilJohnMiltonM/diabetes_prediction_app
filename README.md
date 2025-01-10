@@ -1,7 +1,7 @@
 # Diabetes Prediction App
 
 ## Overview
-This project is a **Diabetes Prediction App** built as part of my **Data Science Engineering Course** at **Great Learning**. It marks my first attempt at using GitHub for a data science project.
+This project is a **Diabetes Prediction App** built as part of my **Data Science Engineering Course** at **Great Learning**.
 
 The goal of this project is to predict the likelihood of a person having diabetes using machine learning algorithms. The project leverages a public diabetes dataset and follows a complete data science workflow, including data preprocessing, model training, evaluation, and deployment.
 
